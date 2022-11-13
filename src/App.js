@@ -5,7 +5,7 @@ import Tabs from './components/Tabs';
 
 function App() {
   const tabsArray = [
-    {label: 'Home', content: "Here's some landing page contect!"},
+    {label: 'Home', content: "Here's some landing page content!"},
     {label: 'About', content: 'About us content!'},
     {label: 'Inventory', content: 'Take a look at our inventory!'},
     {label: 'Contact', content: 'Get in touch with us!'},
